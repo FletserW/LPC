@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+main()
+{
+    //Variables:
+    int idade;
+    //Commands:
+    printf("Informe idade: ");
+    scanf("%d", &idade);
+    printf("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n");
+    printf("Nome: Nicolas Silva Borba\n");
+    printf("Idade: %d", idade);
+}
