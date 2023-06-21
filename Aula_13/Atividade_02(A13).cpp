@@ -4,7 +4,7 @@ int main()
 {
 
     // Variables:
-    int mat[3][3], vet[3], i, j, k, cont = 1;
+    int mat[3][3], vet[3], i, j, cont = 1;
 
     // Commads:
 
